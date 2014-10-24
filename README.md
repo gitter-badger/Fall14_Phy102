@@ -1,4 +1,5 @@
 # Phy 102 Introduction to Computational Physics
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/karenyyng/Fall14_Phy102?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Lecturer: [J. Quinn Norris](mailto:jqnorris@ucdavis.edu)
 TA: [Karen Y. Ng](mailto:karenyng@ucdavis.edu) 
 
